@@ -1,2 +1,3 @@
 # madnoyz.game
-Learning Kotlin with Libgdx
+Learning Godot with Rust
+
